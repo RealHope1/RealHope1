@@ -28,9 +28,7 @@
 
 
 
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on  <a href="https://www.linkedin.com/in/gideon-opoku-a4b193260/">
 
 <br>
 
